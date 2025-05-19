@@ -22,7 +22,7 @@ Pretrained MLP models are also included, trained on 1M, 5.5M, and 11M samples.
 
 ##  Dataset
 
-- File: `HIGGS.csv.gz` from the UCI Machine Learning Repository
+- File: [`HIGGS.csv.gz`](https://archive.ics.uci.edu/dataset/280/higgs) from the UCI Machine Learning Repository
 - 11 million rows, 28 columns (1 label + 1 event weight + 27 features)
 -  Note: Original weights are not scaled, so AMS metric is not evaluated in this project
 
