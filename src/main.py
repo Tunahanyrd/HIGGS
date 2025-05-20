@@ -7,7 +7,7 @@ Created on Sat May 17 14:06:08 2025
 HIGGS dataset
 """
 # =============================================================================
-# İmporting library
+# Importing library
 # =============================================================================
 import torch
 torch.cuda.empty_cache()
